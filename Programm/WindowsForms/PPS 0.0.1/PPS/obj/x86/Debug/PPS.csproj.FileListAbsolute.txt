@@ -1,0 +1,10 @@
+D:\Documents\Github\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\bin\x86\Debug\PPS.exe.config
+D:\Documents\Github\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\bin\x86\Debug\PPS.exe
+D:\Documents\Github\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\bin\x86\Debug\PPS.pdb
+D:\Documents\Github\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\obj\x86\Debug\PPS.csprojResolveAssemblyReference.cache
+D:\Documents\Github\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\obj\x86\Debug\PPS.Authorization.resources
+D:\Documents\Github\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\obj\x86\Debug\PPS.MainGUI.resources
+D:\Documents\Github\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\obj\x86\Debug\PPS.Properties.Resources.resources
+D:\Documents\Github\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\obj\x86\Debug\PPS.csproj.GenerateResource.Cache
+D:\Documents\Github\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\obj\x86\Debug\PPS.exe
+D:\Documents\Github\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\obj\x86\Debug\PPS.pdb
