@@ -50,7 +50,7 @@
             this.lbl_Password.AutoSize = true;
             this.lbl_Password.Location = new System.Drawing.Point(10, 60);
             this.lbl_Password.Name = "lbl_Password";
-            this.lbl_Password.Size = new System.Drawing.Size(38, 13);
+            this.lbl_Password.Size = new System.Drawing.Size(45, 13);
             this.lbl_Password.TabIndex = 1;
             this.lbl_Password.Text = "Пароль";
             // 
@@ -67,6 +67,7 @@
             this.tb_Password.Name = "tb_Password";
             this.tb_Password.Size = new System.Drawing.Size(147, 20);
             this.tb_Password.TabIndex = 3;
+            this.tb_Password.TextChanged += new System.EventHandler(this.tb_Password_TextChanged);
             // 
             // btn_login
             // 

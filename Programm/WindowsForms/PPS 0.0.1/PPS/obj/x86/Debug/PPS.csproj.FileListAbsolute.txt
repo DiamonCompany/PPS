@@ -8,3 +8,13 @@ D:\Documents\Github\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\obj\x86\Debug\PPS.Pr
 D:\Documents\Github\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\obj\x86\Debug\PPS.csproj.GenerateResource.Cache
 D:\Documents\Github\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\obj\x86\Debug\PPS.exe
 D:\Documents\Github\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\obj\x86\Debug\PPS.pdb
+c:\Матвей\НГУ\3 курс\Объектно-ориентированный анализ и дизайн\2 семестр\Project\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\bin\x86\Debug\PPS.exe.config
+c:\Матвей\НГУ\3 курс\Объектно-ориентированный анализ и дизайн\2 семестр\Project\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\obj\x86\Debug\PPS.exe
+c:\Матвей\НГУ\3 курс\Объектно-ориентированный анализ и дизайн\2 семестр\Project\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\obj\x86\Debug\PPS.pdb
+c:\Матвей\НГУ\3 курс\Объектно-ориентированный анализ и дизайн\2 семестр\Project\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\bin\x86\Debug\PPS.exe
+c:\Матвей\НГУ\3 курс\Объектно-ориентированный анализ и дизайн\2 семестр\Project\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\bin\x86\Debug\PPS.pdb
+c:\Матвей\НГУ\3 курс\Объектно-ориентированный анализ и дизайн\2 семестр\Project\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\obj\x86\Debug\PPS.csprojResolveAssemblyReference.cache
+c:\Матвей\НГУ\3 курс\Объектно-ориентированный анализ и дизайн\2 семестр\Project\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\obj\x86\Debug\PPS.Authorization.resources
+c:\Матвей\НГУ\3 курс\Объектно-ориентированный анализ и дизайн\2 семестр\Project\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\obj\x86\Debug\PPS.MainGUI.resources
+c:\Матвей\НГУ\3 курс\Объектно-ориентированный анализ и дизайн\2 семестр\Project\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\obj\x86\Debug\PPS.Properties.Resources.resources
+c:\Матвей\НГУ\3 курс\Объектно-ориентированный анализ и дизайн\2 семестр\Project\PPS\Programm\WindowsForms\PPS 0.0.1\PPS\obj\x86\Debug\PPS.csproj.GenerateResource.Cache

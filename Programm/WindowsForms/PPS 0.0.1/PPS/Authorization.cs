@@ -54,5 +54,10 @@ namespace PPS
                 deleteRegistry();
             }
         }
+
+        private void tb_Password_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
